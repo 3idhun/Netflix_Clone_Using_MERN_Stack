@@ -2,8 +2,9 @@ import React from 'react'
 
 const Homepage = () => {
   return (
-    <div>
-      Hero
+    <div className='p-5'>
+      <Hero />
+      <CardList />
     </div>
   )
 }
