@@ -1,6 +1,6 @@
 # 🎬 Netflix_Clone_Using_MERN_Stack
 
-A responsive Netflix-style movie web application built using **React**. It fetches data from **The Movie Database (TMDB) API** and displays upcoming movies in a clean UI.
+A responsive Netflix-style movie web application built using **React**. It fetches data from **The Movie Database (TMDB) API** and displays upcoming movies in a clean UI.   
 
 ---
 
