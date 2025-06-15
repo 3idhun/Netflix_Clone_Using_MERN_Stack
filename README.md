@@ -8,7 +8,7 @@ A responsive Netflix-style movie web application built using **React**. It fetch
 
 - 📡 Fetches upcoming movies from TMDB API
 - ⚛️ Built with React (Vite)
-- 📱 Fully responsive layout
+- 📱 Fully responsive layout       
 - 💡 Component-based design
 - 🌙 Dark-themed aesthetic (like Netflix)
 
