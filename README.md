@@ -10,7 +10,7 @@ A responsive Netflix-style movie web application built using **React**. It fetch
 - ⚛️ Built with React (Vite)
 - 📱 Fully responsive layout       
 - 💡 Component-based design
-- 🌙 Dark-themed aesthetic (like Netflix)
+- 🌙 Dark-themed aesthetic (like Netflix)  
 
 ---
 
