@@ -19,7 +19,7 @@ A responsive Netflix-style movie web application built using **React**. It fetch
 🔧 Tech Stack
 Frontend: React, Vite
 API: TMDB API
-Styling: CSS / Tailwind (optional)
+Styling: CSS 
 Backend (MongoDB, Express, Node.js) setup will be added in future updates.
 
 ## 🛠️ Getting Started
