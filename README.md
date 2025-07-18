@@ -3,7 +3,7 @@
 A responsive Netflix-style movie web application built using **React**. It fetches data from **The Movie Database (TMDB) API** and displays upcoming movies in a clean UI.   
 
 ---
-
+ 
 ## 🚀 Features
 
 - 📡 Fetches upcoming movies from TMDB API
