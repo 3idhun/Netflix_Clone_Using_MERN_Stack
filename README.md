@@ -17,7 +17,7 @@ A responsive Netflix-style movie web application built using **React**. It fetch
 📸 UI Preview
 
 🔧 Tech Stack
-Frontend: React, Vite
+Frontend: React, Vite   
 API: TMDB API
 Styling: CSS 
 Backend (MongoDB, Express, Node.js) setup will be added in future updates.
